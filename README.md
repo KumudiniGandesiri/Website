@@ -1,3 +1,1 @@
-# Website
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/KumudiniGandesiri/Website)
+This is My Personalized Website Created by Stackblitz I have added my Skills and Projects and my Work Experience
